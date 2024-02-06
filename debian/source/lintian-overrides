@@ -1,0 +1,5 @@
+python-publicsuffix2 source: file-without-copyright-information
+python-publicsuffix2 source: no-debian-changes
+python-publicsuffix2 source: source-contains-prebuilt-windows-binary
+python-publicsuffix2 source: source-is-missing
+python-publicsuffix2 source: source-package-encodes-python-version
